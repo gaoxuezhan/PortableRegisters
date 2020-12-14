@@ -1,0 +1,17 @@
+M:\NodeRegister\NodeRegister\NodeRegister\bin\Debug\NodeRegister.exe.config
+M:\NodeRegister\NodeRegister\NodeRegister\bin\Debug\NodeRegister.exe
+M:\NodeRegister\NodeRegister\NodeRegister\bin\Debug\NodeRegister.pdb
+M:\NodeRegister\NodeRegister\NodeRegister\obj\Debug\NodeRegister.csprojResolveAssemblyReference.cache
+M:\NodeRegister\NodeRegister\NodeRegister\obj\Debug\NodeRegister.exe
+M:\NodeRegister\NodeRegister\NodeRegister\obj\Debug\NodeRegister.pdb
+E:\Work\Midway\NodeRegister\NodeRegister\NodeRegister\bin\Debug\NodeRegister.exe.config
+E:\Work\Midway\NodeRegister\NodeRegister\NodeRegister\bin\Debug\NodeRegister.exe
+E:\Work\Midway\NodeRegister\NodeRegister\NodeRegister\bin\Debug\NodeRegister.pdb
+E:\Work\Midway\NodeRegister\NodeRegister\NodeRegister\obj\Debug\NodeRegister.exe
+E:\Work\Midway\NodeRegister\NodeRegister\NodeRegister\obj\Debug\NodeRegister.pdb
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\ＭyRegister\NodeRegister\NodeRegister\bin\Debug\NodeRegister.exe.config
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\ＭyRegister\NodeRegister\NodeRegister\bin\Debug\NodeRegister.exe
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\ＭyRegister\NodeRegister\NodeRegister\bin\Debug\NodeRegister.pdb
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\ＭyRegister\NodeRegister\NodeRegister\obj\Debug\NodeRegister.csprojResolveAssemblyReference.cache
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\ＭyRegister\NodeRegister\NodeRegister\obj\Debug\NodeRegister.exe
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\ＭyRegister\NodeRegister\NodeRegister\obj\Debug\NodeRegister.pdb
