@@ -1,0 +1,11 @@
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\PortableRegisters\VscodeRegister\NodeRegister\bin\Debug\VscodeRegister.exe.config
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\PortableRegisters\VscodeRegister\NodeRegister\bin\Debug\VscodeRegister.exe
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\PortableRegisters\VscodeRegister\NodeRegister\bin\Debug\VscodeRegister.pdb
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\PortableRegisters\VscodeRegister\NodeRegister\obj\Debug\VscodeRegister.exe
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\PortableRegisters\VscodeRegister\NodeRegister\obj\Debug\VscodeRegister.pdb
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\PortableRegisters\VscodeRegister\Register\bin\Debug\VscodeRegister.exe.config
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\PortableRegisters\VscodeRegister\Register\bin\Debug\VscodeRegister.exe
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\PortableRegisters\VscodeRegister\Register\bin\Debug\VscodeRegister.pdb
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\PortableRegisters\VscodeRegister\Register\obj\Debug\VscodeRegister.csprojResolveAssemblyReference.cache
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\PortableRegisters\VscodeRegister\Register\obj\Debug\VscodeRegister.exe
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\PortableRegisters\VscodeRegister\Register\obj\Debug\VscodeRegister.pdb
