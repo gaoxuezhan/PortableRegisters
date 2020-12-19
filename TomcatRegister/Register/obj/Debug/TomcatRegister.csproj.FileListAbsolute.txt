@@ -1,0 +1,12 @@
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\PortableRegisters\TomcatRegister\NodeRegister\bin\Debug\NodeRegister.exe.config
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\PortableRegisters\TomcatRegister\NodeRegister\bin\Debug\NodeRegister.exe
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\PortableRegisters\TomcatRegister\NodeRegister\bin\Debug\NodeRegister.pdb
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\PortableRegisters\TomcatRegister\NodeRegister\obj\Debug\TomcatRegister.csprojResolveAssemblyReference.cache
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\PortableRegisters\TomcatRegister\NodeRegister\obj\Debug\NodeRegister.exe
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\PortableRegisters\TomcatRegister\NodeRegister\obj\Debug\NodeRegister.pdb
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\PortableRegisters\TomcatRegister\Register\bin\Debug\TomcatRegister.exe.config
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\PortableRegisters\TomcatRegister\Register\bin\Debug\TomcatRegister.exe
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\PortableRegisters\TomcatRegister\Register\bin\Debug\TomcatRegister.pdb
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\PortableRegisters\TomcatRegister\Register\obj\Debug\TomcatRegister.csprojResolveAssemblyReference.cache
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\PortableRegisters\TomcatRegister\Register\obj\Debug\TomcatRegister.exe
+G:\MidwayCommandCenter\MidWayBattleField\WeaponWorkspace\PortableRegisters\TomcatRegister\Register\obj\Debug\TomcatRegister.pdb
